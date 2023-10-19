@@ -5,25 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b89df488-dd7a-48aa-8c19-3fc3bdadc98c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/models/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/models/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/DownloadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/HomeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/Image1Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/Image2Servlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/ProductServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/RegisterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/thanhtran/servlets/UploadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/files/cat.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/About.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Contact.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Help.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/Welcome.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/upload.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/.idea/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/Lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/dao/ProductDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/servlets/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/servlets/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/servlets/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/servlets/RegisterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/java/com/thanhtran/utils/HibernateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/webapp/jsp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/webapp/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/webapp/jsp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/src/main/webapp/jsp/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lab3/PhoneManager/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lab3/PhoneManager/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Java_Technology/Lab4/Lab4/src/main/webapp/WEB-INF/files",
+    "last_opened_file_path": "D:/Java_Technology/Lab4/Lab4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -136,7 +139,10 @@
       <workItem from="1697000522460" duration="759000" />
       <workItem from="1697084187365" duration="4000" />
       <workItem from="1697126925091" duration="2976000" />
-      <workItem from="1697175375966" duration="14752000" />
+      <workItem from="1697175375966" duration="15388000" />
+      <workItem from="1697214248197" duration="6000" />
+      <workItem from="1697214354237" duration="12000" />
+      <workItem from="1697697514317" duration="709000" />
     </task>
     <servers />
   </component>
